@@ -8,6 +8,7 @@ A sleek, **black-and-white monochrome themed** client-side Fabric mod for Minecr
 Designed to snapshot, manage, and restore player kits and inventory states locally with strict server-permission awareness.
 
 ---
+
 ## ⚡ Commands
 
 | Command | Permission Required | Description |
