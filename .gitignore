@@ -1,0 +1,14 @@
+.gradle/
+build/
+run/
+dist/
+logs/
+*.log
+.fabric/
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.vscode/
+.DS_Store

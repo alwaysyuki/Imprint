@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "imprint",
+  "version": "${version}",
+  "name": "Imprint",
+  "description": "A sleek, black-and-white monochrome client-side Fabric mod for saving and loading player inventory imprints with server-permission awareness.",
+  "authors": [
+    "Superior"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/imprint/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.superior.imprint.ImprintMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": ">=26.1 <=26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
