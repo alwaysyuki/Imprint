@@ -19,7 +19,6 @@ Designed to snapshot, manage, and restore player kits and inventory states local
 | `/imprint delete <name>` | **None** | Removes the local imprint JSON file. |
 | `/imprint help` | **None** | Displays command usage and help. |
 
-*(Legacy `/kitcopy` command is also retained as a seamless alias)*
 
 ---
 
