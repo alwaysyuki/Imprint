@@ -8,17 +8,6 @@ A sleek, **black-and-white monochrome themed** client-side Fabric mod for Minecr
 Designed to snapshot, manage, and restore player kits and inventory states locally with strict server-permission awareness.
 
 ---
-
-## 🖤 Aesthetics & Theme
-
-Imprint features a custom monochromatic design system:
-* **Brilliant White to Charcoal Gradients**: Dynamic 24-bit linear gradients (`#FFFFFF` ➔ `#7E7E7E` ➔ `#2A2A2A`).
-* **Chrome Badges**: Bold `[IMPRINT]` gradient tag prefixes on all feedback messages.
-* **Minimalist UI**: Sleek high-contrast buttons (`[LOAD]` in pure white, `[DELETE]` in slate gray).
-* **Fading Dividers**: Subtle `───── [ IMPRINT ] ─────` section headers.
-
----
-
 ## ⚡ Commands
 
 | Command | Permission Required | Description |
